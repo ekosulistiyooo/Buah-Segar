@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Buah Segar</string>
+    <string name="buah_name_1">Anggur</string>
+    <string name="buah_name_2">Apel</string>
+    <string name="buah_name_3">Belimbing</string>
+    <string name="buah_name_4">Ceri</string>
+    <string name="buah_name_5">Delima</string>
+    <string name="buah_name_6">Durian</string>
+    <string name="buah_name_7">Jambu Merah</string>
+    <string name="buah_name_8">Jeruk</string>
+    <string name="buah_name_9">Mangga</string>
+    <string name="buah_name_10">Manggis</string>
+    <string name="buah_name_11">Melon</string>
+    <string name="buah_name_12">Naga</string>
+    <string name="buah_name_13">Pepaya</string>
+    <string name="buah_name_14">Pisang</string>
+    <string name="buah_name_15">Rambutan</string>
+    <string name="buah_name_16">Sawo</string>
+    <string name="buah_name_17">Semangka</string>
+    <string name="buah_name_18">Strawberi</string>
+
+    <string name="buah_description_1">Buah kecil, bulat, berwarna ungu, merah, atau hijau dengan rasa manis atau asam.</string>
+    <string name="buah_description_2">Buah berbentuk bulat dengan warna merah, hijau, atau kuning, memiliki daging buah yang renyah dan rasa manis atau sedikit asam.</string>
+    <string name="buah_description_3">Buah dengan bentuk khas menyerupai bintang saat dipotong, berwarna kuning atau hijau, dan rasanya manis-asam.</string>
+    <string name="buah_description_4">Buah kecil, bulat, biasanya berwarna merah atau hitam, dengan rasa manis atau asam.</string>
+    <string name="buah_description_5">Buah dengan kulit tebal dan biji berwarna merah atau putih di dalamnya, dikenal dengan rasanya yang segar, manis, dan asam.</string>
+    <string name="buah_description_6">Buah berduri dengan aroma kuat yang khas, daging buahnya lembut dan berwarna kuning dengan rasa manis dan sedikit pahit.</string>
+    <string name="buah_description_7">Buah dengan daging berwarna merah muda atau merah, rasanya manis segar, dan sering dikonsumsi dalam bentuk jus.</string>
+    <string name="buah_description_8">Buah berwarna oranye dengan rasa manis-asam yang menyegarkan.</string>
+    <string name="buah_description_9">Buah berdaging kuning-oranye yang lembut dan manis saat matang, dengan aroma yang khas.</string>
+    <string name="buah_description_10">Buah berwarna ungu tua dengan daging buah putih yang manis dan sedikit asam.</string>
+    <string name="buah_description_11">Buah berukuran besar dengan kulit keras, memiliki daging buah berwarna hijau atau oranye, rasanya manis dan menyegarkan.</string>
+    <string name="buah_description_12">Buah bersisik merah atau kuning dengan daging putih atau merah, rasa manis dan segar.</string>
+    <string name="buah_description_13">Buah berwarna oranye dengan biji hitam kecil di dalamnya, rasanya manis dan teksturnya lembut.</string>
+    <string name="buah_description_14">Buah berwarna kuning dengan daging yang manis dan lembut, sering dikonsumsi segar atau diolah menjadi berbagai hidangan.</string>
+    <string name="buah_description_15">Buah dengan kulit berambut dan daging berwarna putih yang manis.</string>
+    <string name="buah_description_16">Buah berwarna cokelat dengan daging buah lembut yang manis.</string>
+    <string name="buah_description_17">Buah besar dengan kulit hijau dan daging merah atau kuning, penuh air dan sangat menyegarkan.</string>
+    <string name="buah_description_18">Buah kecil berwarna merah cerah dengan rasa manis-asam yang segar, sering dimakan segar atau dijadikan bahan makanan dan minuman.</string>
+    <string name="about">Keterangan:</string>
+    <string name="harga_buah">Rp. %d</string>
+    <string name="expand_button_content_description">Keterangan</string>
+</resources>
